@@ -35,9 +35,6 @@ iNVentory is a robust, scalable, and secure enterprise application designed to s
   - Customizable dashboards
   - Exportable data for business intelligence
 
-- **Integration & API**
-  - RESTful API for integration with ERP, CRM, and accounting software
-  - Webhooks for event-driven automation
 
 ---
 
