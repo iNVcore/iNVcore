@@ -72,4 +72,3 @@ iNVentory is a robust, scalable, and secure enterprise application designed to s
   </div>
 
 </div>
----
