@@ -1,6 +1,6 @@
 
 # iNVcore
-
+newline
 **Enterprise-Grade Inventory Management & Billing System**
 
 ---
